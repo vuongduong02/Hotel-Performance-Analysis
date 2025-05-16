@@ -27,7 +27,7 @@ Analyze the overall performance of a hotel over the past 2 years, focusing on fo
 The diagram below illustrates the relationships between tables used in this project.
 
 
-## 🔍 Insights & Recommendations
+## 🔍 Insights
 
 Below are key insights drawn from the hotel’s performance analysis:
 
@@ -91,8 +91,7 @@ Phân tích tổng quan hiệu suất hoạt động của một khách sạn tr
 Ảnh dưới đây minh họa mối quan hệ giữa các bảng dữ liệu được sử dụng trong phân tích.
 
 
-## 🔍 Kết quả phân tích & Đề xuất
-
+## 🔍 Kết quả phân tích
 Dưới đây là những kết quả nổi bật được rút ra từ việc phân tích dữ liệu khách sạn:
 
 1. 🛌 **Tỷ lệ lấp đầy thấp do thời gian lưu trú ngắn**
