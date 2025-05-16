@@ -45,7 +45,7 @@ Below are key insights drawn from the hotel’s performance analysis:
 3. 👥 **Loyal customers are a sustainable revenue source**
 
 - Over **1,900 returning customers**, some staying up to **10 times**, indicate strong satisfaction and potential for long-term value.
-- Customers like **Customer 362, 219, 130** should be considered for loyalty programs or personalized offers.
+- Customers like **Customer 362, Customer 219, Customer 130** should be considered for loyalty programs or personalized offers.
 
 4. 📉 **High booking cancellation rate is a major risk**
 
